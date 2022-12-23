@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d017ec45.css",
+    "main.js": "/static/js/main.2066f2c7.js",
+    "static/media/Vector 1.png": "/static/media/Vector 1.94befba619cb7afea0ac.png",
+    "static/media/karta.jpg": "/static/media/karta.8a2b6326562b75438976.jpg",
+    "static/media/Rectangle4.jpg": "/static/media/Rectangle4.292f0b7e8b2075790e98.jpg",
+    "static/media/Logo 2 1@2x.png": "/static/media/Logo 2 1@2x.aad4c8b0d52022b9db89.png",
+    "static/media/bacround-img.jpg": "/static/media/bacround-img.f6afb93577ecc93d4f89.jpg",
+    "static/media/Rectangle 7.jpg": "/static/media/Rectangle 7.4291be3caaf29015a58f.jpg",
+    "index.html": "/index.html",
+    "main.d017ec45.css.map": "/static/css/main.d017ec45.css.map",
+    "main.2066f2c7.js.map": "/static/js/main.2066f2c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d017ec45.css",
+    "static/js/main.2066f2c7.js"
+  ]
+}
